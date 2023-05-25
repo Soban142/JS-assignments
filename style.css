@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* body{
+    
+} */
+
+.img{
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+    margin: 0 2em;
+}
+
+#link{
+    color: white;
+    text-decoration: none;
+}
+
+.btn{
+    font-size: 1rem;
+    border: transparent;
+    background-color: rgba(41, 37, 37, 0.8);
+    padding: 0.8em 1em;
+    margin-left: 1em;
+}
